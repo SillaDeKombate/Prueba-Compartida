@@ -3,5 +3,5 @@ function saludo () {
 }
 
 function despedida () {
-    alert("adios")
+    alert("hola")
 }
